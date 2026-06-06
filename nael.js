@@ -29,8 +29,8 @@ initializeWhatsAppConnections();*/
 // DAFTAR RAW URL UNTUK 3 FILE
 const filesToCheck = [
     { local: "nael.js", raw: "https://raw.githubusercontent.com/Sanzyoffc-ganteng/anti-modifikasi-/refs/heads/main/nael.js" },
-    { local: "menu/addusr.js", raw: "https://raw.githubusercontent.com/username/repo/main/menu/addusr.js" },
-    { local: "menu/panel.js", raw: "https://raw.githubusercontent.com/username/repo/main/menu/panel.js" }
+    { local: "menu/addusr.js", raw: "https://raw.githubusercontent.com/Sanzyoffc-ganteng/anti-modifikasi-/refs/heads/main/menu/addusr.js" },
+    { local: "menu/panel.js", raw: "https://raw.githubusercontent.com/Sanzyoffc-ganteng/anti-modifikasi-/refs/heads/main/menu/panel.js" }
 ];
 
 async function checkAllFiles() {
